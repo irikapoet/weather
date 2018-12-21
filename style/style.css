@@ -1,0 +1,28 @@
+p {
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: lightgoldenrodyellow;
+  text-shadow: 3px 3px 1px black;
+
+}
+
+body {
+  background-image: url(../images/fon1.jpg);
+}
+
+.hidden {
+  display: none;
+}
+
+.middle {
+  width: 25%;
+  margin: 0 auto;
+  color: lightgoldenrodyellow;
+}
+
+.card {
+  width: 15%;
+  margin: 0 auto;
+}
