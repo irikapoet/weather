@@ -1,8 +1,8 @@
 p {
   font-size: 30px;
-  text-align: center;
-  margin: 0;
-  padding: 20px 0;    
+  text-align: left;
+  margin: 20px 0;
+  padding-left: 110px;  
   color: lightgoldenrodyellow;
   text-shadow: 3px 3px 1px black;
 
@@ -10,6 +10,10 @@ p {
 
 body {
   background-image: url(../images/fon1.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+   
 }
 
 .hidden {
@@ -17,7 +21,7 @@ body {
 }
 
 .middle {
-  width: 25%;
+  width: 82%;
   margin: 0 auto;
   color: lightgoldenrodyellow;
 }
