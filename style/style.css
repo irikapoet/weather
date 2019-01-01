@@ -1,23 +1,15 @@
 p {
   font-size: 30px;
+  text-align: center;
   margin: 0;
-  padding: 20px 0;   
-  padding-left: 170px; 
+  padding: 20px 0;    
   color: lightgoldenrodyellow;
   text-shadow: 3px 3px 1px black;
 
 }
 
-
-
-/* body {
-  background-image: url(../images/fon1.jpg);
-  
-} */
-
 body {
-background-color: #e61f59;
-background-image: radial-gradient(ellipse farthest-corner at right bottom, #ADC0CE 0%, rgb(80, 192, 55) 50%, #E4E4E4 100%);
+  background-image: url(../images/fon1.jpg);
 }
 
 .hidden {
@@ -25,7 +17,7 @@ background-image: radial-gradient(ellipse farthest-corner at right bottom, #ADC0
 }
 
 .middle {
-  width: 75%;
+  width: 25%;
   margin: 0 auto;
   color: lightgoldenrodyellow;
 }
