@@ -9,10 +9,9 @@ p {
 }
 
 body {
-  background-image: url(../images/fon1.jpg);
+  background: url(../images/fon1.jpg) no-repeat fixed;
   background-size: cover;
-  background-position: center center;
-  background-attachment: fixed;
+  
    
 }
 
