@@ -4,12 +4,12 @@ p {
   margin: 20px 0;
   padding-left: 110px;  
   color: lightgoldenrodyellow;
-  text-shadow: 3px 3px 1px black;
+  text-shadow: 3px 3px 1px rgb(26, 173, 83);
 
 }
 
 body {
-  background: url(../images/fon1.jpg) no-repeat fixed;
+  background: url(../images/phone.png) no-repeat fixed;
   background-size: cover;
   
    
@@ -19,10 +19,13 @@ body {
   display: none;
 }
 
+
+
 .middle {
   width: 82%;
   margin: 0 auto;
   color: lightgoldenrodyellow;
+  text-shadow: 3px 3px 1px rgb(165, 20, 20);
 }
 
 .card {
