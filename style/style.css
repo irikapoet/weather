@@ -9,8 +9,9 @@ p {
 }
 
 body {
-  background: url(../images/phone.png);
-  background-repeat: repeat-x;
+  background: url(../images/phone.png) repeat;
+  background-size: 300%;
+  background-attachment: fixed;
 }
 
 .hidden {
